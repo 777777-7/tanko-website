@@ -1,0 +1,47 @@
+C:\Users\User\OneDrive\tanko seo\asset2_build.py:260: DeprecationWarning: Image.Image.getdata is deprecated and will be removed in Pillow 14 (2027-10-15). Use get_flattened_data instead.
+  px = list(im.getdata())
+== classify: crawl category sub-collections (structural signal) ==
+  [workstation] subcollections: ['Classic', 'Professional']
+  [workbench] subcollections: ['Heavy Duty', 'Hexagonal', 'Packing Station', 'Performance', 'Professional', 'Stainless Steel', 'Workbench Accessories']
+  [tool-cabinet] subcollections: ['Heavy-Duty Tool Cabinet', 'Standard Tool Cabinet', 'Tilt Out Bins Cart', 'Trolley']
+  [cnc-tool] subcollections: ['CNC Tool Cabinet', 'CNC Tool Cabinet with Door', 'CNC Trolley']
+  [rack] subcollections: ['Mould Rack', 'Pull-out Rack']
+  [hanger-rack] subcollections: ['Display Stand', 'Hanger Rack']
+  [locker] subcollections: []
+  [parts-cabinet] subcollections: ['Parts Bin', 'Parts Cabinet', 'Team Case']
+  [documents-cabinet] subcollections: ['Documents Cabinet', 'Documents Tray']
+  [perforated-board] subcollections: ['Hangers', 'Hooks', 'Perforated Board']
+  [household-items] subcollections: ['Chest of Drawers']
+  mother pages: 129   accessory pages: 18
+== plan filenames + download images to /asset2/ ==
+  2122 image files planned
+  downloaded/exists: 2122   variation-flagged: 266
+
+============================================================
+STEP 4 REPORT
+============================================================
+Mother-product SKUs found (live):        1495
+Mother-product SKUs already in products:  1495
+  -> NEW mother SKUs (gap):               0
+Accessory SKUs found (live):             77
+Total live SKUs:                         1572
+products.json SKU count:                 1742
+NEW SKUs total (mother+accessory):       0
+Images downloaded to /asset2/:           2122
+  -> flagged '(variation)':              266
+Image mismatches flagged (hamming>12):   12  (compared 1266)
+Pages/URLs failed:                       0
+
+Sample '(variation)' filenames:
+    EGL-185M_(variation).png
+    EGL-185M_(variation)_2.png
+    EGL-185MA_(variation).png
+    EGL-185MA_(variation)_2.png
+    EGL-185M + EGQ-02A_(variation).png
+    EGL-185M + EGQ-02A_(variation)_2.png
+    EGL-185M + EGP-03L_(variation).png
+    EGL-185M + EGP-03L_(variation)_2.png
+    EGL-187M_(variation).png
+    EGL-187M_(variation)_2.png
+
+Reports written: new_products.json, image_mismatches.json, accessories_found.json, asset2_failed.json

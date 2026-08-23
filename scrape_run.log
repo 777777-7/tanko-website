@@ -1,0 +1,334 @@
+Running from: C:\Users\User\OneDrive\tanko seo
+Output JSON:  C:\Users\User\OneDrive\tanko seo\tanko_variants.json
+Output CSV:   C:\Users\User\OneDrive\tanko seo\tanko_variants.csv
+
+== Step 1: discover product-detail URLs across all categories ==
+  crawl https://www.tanko.com.tw/en/products/workstation/
+  crawl https://www.tanko.com.tw/en/products/workstation/?page=2
+  crawl https://www.tanko.com.tw/en/products/workbench/
+  crawl https://www.tanko.com.tw/en/products/workbench/?page=2
+  crawl https://www.tanko.com.tw/en/products/tool-cabinet/
+  crawl https://www.tanko.com.tw/en/products/tool-cabinet/?page=2
+  crawl https://www.tanko.com.tw/en/products/cnc-tool/
+  crawl https://www.tanko.com.tw/en/products/cnc-tool/?page=2
+  crawl https://www.tanko.com.tw/en/products/rack/
+  crawl https://www.tanko.com.tw/en/products/rack/?page=2
+  crawl https://www.tanko.com.tw/en/products/hanger-rack/
+  crawl https://www.tanko.com.tw/en/products/hanger-rack/?page=2
+  crawl https://www.tanko.com.tw/en/products/locker/
+  crawl https://www.tanko.com.tw/en/products/locker/?page=2
+  crawl https://www.tanko.com.tw/en/products/parts-cabinet/
+  crawl https://www.tanko.com.tw/en/products/parts-cabinet/?page=2
+  crawl https://www.tanko.com.tw/en/products/documents-cabinet/
+  crawl https://www.tanko.com.tw/en/products/documents-cabinet/?page=2
+  crawl https://www.tanko.com.tw/en/products/perforated-board/
+  crawl https://www.tanko.com.tw/en/products/perforated-board/?page=2
+  crawl https://www.tanko.com.tw/en/products/household-items/
+  crawl https://www.tanko.com.tw/en/products/household-items/?page=2
+  found 139 product-detail pages
+
+== Step 2: expand every variant per page ==
+[1/139] https://www.tanko.com.tw/en/products-detail/EKK-1M/
+    EKK-1M: 2 spec group(s), 1 combinations
+      (1 combinations not offered — skipped)
+[2/139] https://www.tanko.com.tw/en/products-detail/a4l-104/
+    a4l-104: 2 spec group(s), 4 combinations
+[3/139] https://www.tanko.com.tw/en/products-detail/a4l-110/
+    a4l-110: 2 spec group(s), 3 combinations
+[4/139] https://www.tanko.com.tw/en/products-detail/a4l-204/
+    a4l-204: 2 spec group(s), 6 combinations
+[5/139] https://www.tanko.com.tw/en/products-detail/a4l-220/
+    a4l-220: 2 spec group(s), 3 combinations
+[6/139] https://www.tanko.com.tw/en/products-detail/a4l-330/
+    a4l-330: 2 spec group(s), 8 combinations
+[7/139] https://www.tanko.com.tw/en/products-detail/a4l-330d/
+    a4l-330d: 2 spec group(s), 3 combinations
+[8/139] https://www.tanko.com.tw/en/products-detail/cea-3/
+    cea-3: 2 spec group(s), 6 combinations
+      (1 combinations not offered — skipped)
+[9/139] https://www.tanko.com.tw/en/products-detail/ceh-3/
+    ceh-3: 2 spec group(s), 6 combinations
+      (1 combinations not offered — skipped)
+[10/139] https://www.tanko.com.tw/en/products-detail/da-3/
+    da-3: 2 spec group(s), 4 combinations
+[11/139] https://www.tanko.com.tw/en/products-detail/db-3/
+    db-3: 2 spec group(s), 8 combinations
+[12/139] https://www.tanko.com.tw/en/products-detail/dd-3/
+    dd-3: 2 spec group(s), 4 combinations
+[13/139] https://www.tanko.com.tw/en/products-detail/ea-10/
+    ea-10: 2 spec group(s), 48 combinations
+[14/139] https://www.tanko.com.tw/en/products-detail/ea-10mn/
+    ea-10mn: 2 spec group(s), 15 combinations
+[15/139] https://www.tanko.com.tw/en/products-detail/ea-10n/
+    ea-10n: 2 spec group(s), 15 combinations
+[16/139] https://www.tanko.com.tw/en/products-detail/ea-12/
+    ea-12: 2 spec group(s), 48 combinations
+[17/139] https://www.tanko.com.tw/en/products-detail/ea-12n/
+    ea-12n: 2 spec group(s), 15 combinations
+[18/139] https://www.tanko.com.tw/en/products-detail/ea-7/
+    ea-7: 2 spec group(s), 32 combinations
+[19/139] https://www.tanko.com.tw/en/products-detail/ea-7m/
+    ea-7m: 2 spec group(s), 32 combinations
+[20/139] https://www.tanko.com.tw/en/products-detail/ea-7mn/
+    ea-7mn: 2 spec group(s), 15 combinations
+[21/139] https://www.tanko.com.tw/en/products-detail/ega-1/
+    ega-1: 2 spec group(s), 3 combinations
+[22/139] https://www.tanko.com.tw/en/products-detail/ega-2m/
+    ega-2m: 2 spec group(s), 2 combinations
+[23/139] https://www.tanko.com.tw/en/products-detail/egl-1/
+    egl-1: 2 spec group(s), 20 combinations
+      (3 combinations not offered — skipped)
+[24/139] https://www.tanko.com.tw/en/products-detail/egm-1/
+    egm-1: 2 spec group(s), 8 combinations
+[25/139] https://www.tanko.com.tw/en/products-detail/eka-3m/
+    eka-3m: 2 spec group(s), 4 combinations
+[26/139] https://www.tanko.com.tw/en/products-detail/eka-3ms/
+    eka-3ms: 2 spec group(s), 4 combinations
+[27/139] https://www.tanko.com.tw/en/products-detail/ekb-3m/
+    ekb-3m: 2 spec group(s), 15 combinations
+[28/139] https://www.tanko.com.tw/en/products-detail/ekc/
+    ekc: 2 spec group(s), 72 combinations
+      (8 combinations not offered — skipped)
+[29/139] https://www.tanko.com.tw/en/products-detail/ela-1/
+    ela-1: 2 spec group(s), 4 combinations
+[30/139] https://www.tanko.com.tw/en/products-detail/els-2/
+    els-2: 2 spec group(s), 4 combinations
+[31/139] https://www.tanko.com.tw/en/products-detail/enr-12/
+    enr-12: 2 spec group(s), 5 combinations
+[32/139] https://www.tanko.com.tw/en/products-detail/ens-1/
+    ens-1: 2 spec group(s), 5 combinations
+[33/139] https://www.tanko.com.tw/en/products-detail/ens-3/
+    ens-3: 2 spec group(s), 5 combinations
+[34/139] https://www.tanko.com.tw/en/products-detail/haa/
+    haa: 2 spec group(s), 2 combinations
+[35/139] https://www.tanko.com.tw/en/products-detail/kh-3/
+    kh-3: 2 spec group(s), 1 combinations
+[36/139] https://www.tanko.com.tw/en/products-detail/km-22/
+    km-22: 2 spec group(s), 15 combinations
+      (8 combinations not offered — skipped)
+[37/139] https://www.tanko.com.tw/en/products-detail/km-23/
+    km-23: 2 spec group(s), 20 combinations
+      (12 combinations not offered — skipped)
+[38/139] https://www.tanko.com.tw/en/products-detail/kp-17/
+    kp-17: 2 spec group(s), 1 combinations
+[39/139] https://www.tanko.com.tw/en/products-detail/kp-3/
+    kp-3: 2 spec group(s), 18 combinations
+[40/139] https://www.tanko.com.tw/en/products-detail/kp-41/
+    kp-41: 2 spec group(s), 2 combinations
+[41/139] https://www.tanko.com.tw/en/products-detail/kp-42/
+    kp-42: 2 spec group(s), 1 combinations
+[42/139] https://www.tanko.com.tw/en/products-detail/kp-43/
+    kp-43: 2 spec group(s), 1 combinations
+[43/139] https://www.tanko.com.tw/en/products-detail/kp-44/
+    kp-44: 2 spec group(s), 1 combinations
+[44/139] https://www.tanko.com.tw/en/products-detail/kp-45/
+    kp-45: 2 spec group(s), 1 combinations
+[45/139] https://www.tanko.com.tw/en/products-detail/kp-46/
+    kp-46: 2 spec group(s), 1 combinations
+[46/139] https://www.tanko.com.tw/en/products-detail/kp-4802/
+    kp-4802: 2 spec group(s), 1 combinations
+[47/139] https://www.tanko.com.tw/en/products-detail/kp-6/
+    kp-6: 2 spec group(s), 14 combinations
+      (1 combinations not offered — skipped)
+[48/139] https://www.tanko.com.tw/en/products-detail/kp-6109/
+    kp-6109: 2 spec group(s), 2 combinations
+[49/139] https://www.tanko.com.tw/en/products-detail/kp-7/
+    kp-7: 2 spec group(s), 64 combinations
+[50/139] https://www.tanko.com.tw/en/products-detail/kpq-4301/
+    kpq-4301: 2 spec group(s), 20 combinations
+      (3 combinations not offered — skipped)
+[51/139] https://www.tanko.com.tw/en/products-detail/kpq-4306/
+    kpq-4306: 2 spec group(s), 2 combinations
+[52/139] https://www.tanko.com.tw/en/products-detail/kq-3/
+    kq-3: 2 spec group(s), 54 combinations
+      (8 combinations not offered — skipped)
+[53/139] https://www.tanko.com.tw/en/products-detail/kq-306as/
+    kq-306as: 2 spec group(s), 1 combinations
+[54/139] https://www.tanko.com.tw/en/products-detail/kr-13/
+    kr-13: 2 spec group(s), 8 combinations
+[55/139] https://www.tanko.com.tw/en/products-detail/kr-14/
+    kr-14: 2 spec group(s), 10 combinations
+[56/139] https://www.tanko.com.tw/en/products-detail/kr-23/
+    kr-23: 2 spec group(s), 8 combinations
+[57/139] https://www.tanko.com.tw/en/products-detail/kr-24/
+    kr-24: 2 spec group(s), 10 combinations
+[58/139] https://www.tanko.com.tw/en/products-detail/locker-gray/
+    locker-gray: 2 spec group(s), 16 combinations
+[59/139] https://www.tanko.com.tw/en/products-detail/locker-white/
+    locker-white: 2 spec group(s), 4 combinations
+[60/139] https://www.tanko.com.tw/en/products-detail/mb-2/
+    mb-2: 2 spec group(s), 4 combinations
+[61/139] https://www.tanko.com.tw/en/products-detail/mb-3/
+    mb-3: 2 spec group(s), 4 combinations
+[62/139] https://www.tanko.com.tw/en/products-detail/me/
+    me: 2 spec group(s), 4 combinations
+[63/139] https://www.tanko.com.tw/en/products-detail/ra-5/
+    ra-5: 2 spec group(s), 10 combinations
+      (4 combinations not offered — skipped)
+[64/139] https://www.tanko.com.tw/en/products-detail/ra-6091/
+    ra-6091: 2 spec group(s), 6 combinations
+[65/139] https://www.tanko.com.tw/en/products-detail/ra-6201/
+    ra-6201: 2 spec group(s), 1 combinations
+[66/139] https://www.tanko.com.tw/en/products-detail/ra-9091/
+    ra-9091: 2 spec group(s), 6 combinations
+[67/139] https://www.tanko.com.tw/en/products-detail/ra-9201/
+    ra-9201: 2 spec group(s), 3 combinations
+[68/139] https://www.tanko.com.tw/en/products-detail/rb-5/
+    rb-5: 2 spec group(s), 4 combinations
+[69/139] https://www.tanko.com.tw/en/products-detail/rb-6098/
+    rb-6098: 2 spec group(s), 6 combinations
+[70/139] https://www.tanko.com.tw/en/products-detail/rc-6094/
+    rc-6094: 2 spec group(s), 6 combinations
+[71/139] https://www.tanko.com.tw/en/products-detail/rd-6091/
+    rd-6091: 2 spec group(s), 3 combinations
+[72/139] https://www.tanko.com.tw/en/products-detail/re-6201/
+    re-6201: 2 spec group(s), 1 combinations
+[73/139] https://www.tanko.com.tw/en/products-detail/rfa_rfb/
+    rfa_rfb: 2 spec group(s), 4 combinations
+[74/139] https://www.tanko.com.tw/en/products-detail/rfc-13/
+    rfc-13: 2 spec group(s), 2 combinations
+[75/139] https://www.tanko.com.tw/en/products-detail/rg-6091/
+    rg-6091: 2 spec group(s), 6 combinations
+[76/139] https://www.tanko.com.tw/en/products-detail/ry/
+    ry: 2 spec group(s), 10 combinations
+[77/139] https://www.tanko.com.tw/en/products-detail/sa/
+    sa: 2 spec group(s), 8 combinations
+[78/139] https://www.tanko.com.tw/en/products-detail/sa_k/
+    sa_k: 2 spec group(s), 4 combinations
+[79/139] https://www.tanko.com.tw/en/products-detail/saa-231/
+    saa-231: 2 spec group(s), 1 combinations
+[80/139] https://www.tanko.com.tw/en/products-detail/saa-331/
+    saa-331: 2 spec group(s), 12 combinations
+      (2 combinations not offered — skipped)
+[81/139] https://www.tanko.com.tw/en/products-detail/sab-331/
+    sab-331: 2 spec group(s), 9 combinations
+      (2 combinations not offered — skipped)
+[82/139] https://www.tanko.com.tw/en/products-detail/sag-231/
+    sag-231: 2 spec group(s), 1 combinations
+[83/139] https://www.tanko.com.tw/en/products-detail/san-33/
+    san-33: 2 spec group(s), 5 combinations
+[84/139] https://www.tanko.com.tw/en/products-detail/san-36/
+    san-36: 2 spec group(s), 5 combinations
+[85/139] https://www.tanko.com.tw/en/products-detail/san-36k/
+    san-36k: 2 spec group(s), 5 combinations
+[86/139] https://www.tanko.com.tw/en/products-detail/sca/
+    sca: 2 spec group(s), 4 combinations
+[87/139] https://www.tanko.com.tw/en/products-detail/scc/
+    scc: 2 spec group(s), 2 combinations
+[88/139] https://www.tanko.com.tw/en/products-detail/sg-23071/
+    sg-23071: 2 spec group(s), 1 combinations
+[89/139] https://www.tanko.com.tw/en/products-detail/sy/
+    sy: 2 spec group(s), 8 combinations
+[90/139] https://www.tanko.com.tw/en/products-detail/ta-1/
+    ta-1: 2 spec group(s), 10 combinations
+[91/139] https://www.tanko.com.tw/en/products-detail/tc-11/
+    tc-11: 2 spec group(s), 3 combinations
+[92/139] https://www.tanko.com.tw/en/products-detail/te_211/
+    te_211: 2 spec group(s), 2 combinations
+[93/139] https://www.tanko.com.tw/en/products-detail/tki-1/
+    tki-1: 2 spec group(s), 15 combinations
+      (2 combinations not offered — skipped)
+[94/139] https://www.tanko.com.tw/en/products-detail/tki-2/
+    tki-2: 2 spec group(s), 24 combinations
+      (2 combinations not offered — skipped)
+[95/139] https://www.tanko.com.tw/en/products-detail/tki-30/
+    tki-30: 2 spec group(s), 3 combinations
+[96/139] https://www.tanko.com.tw/en/products-detail/tki-83/
+    tki-83: 2 spec group(s), 20 combinations
+      (3 combinations not offered — skipped)
+[97/139] https://www.tanko.com.tw/en/products-detail/toa-14/
+    toa-14: 2 spec group(s), 1 combinations
+[98/139] https://www.tanko.com.tw/en/products-detail/wa-57/
+    wa-57: 2 spec group(s), 48 combinations
+[99/139] https://www.tanko.com.tw/en/products-detail/wa-67/
+    wa-67: 2 spec group(s), 42 combinations
+[100/139] https://www.tanko.com.tw/en/products-detail/wa-77/
+    wa-77: 2 spec group(s), 28 combinations
+[101/139] https://www.tanko.com.tw/en/products-detail/wad-77041/
+    wad-77041: 2 spec group(s), 28 combinations
+[102/139] https://www.tanko.com.tw/en/products-detail/was-54/
+    was-54: 2 spec group(s), 36 combinations
+[103/139] https://www.tanko.com.tw/en/products-detail/was-57042/
+    was-57042: 2 spec group(s), 36 combinations
+[104/139] https://www.tanko.com.tw/en/products-detail/was-67053/
+    was-67053: 2 spec group(s), 42 combinations
+[105/139] https://www.tanko.com.tw/en/products-detail/was-74/
+    was-74: 2 spec group(s), 28 combinations
+[106/139] https://www.tanko.com.tw/en/products-detail/was-77042/
+    was-77042: 2 spec group(s), 28 combinations
+[107/139] https://www.tanko.com.tw/en/products-detail/wat-5203/
+    wat-5203: 2 spec group(s), 36 combinations
+[108/139] https://www.tanko.com.tw/en/products-detail/wat-6203/
+    wat-6203: 2 spec group(s), 42 combinations
+[109/139] https://www.tanko.com.tw/en/products-detail/wat-7203/
+    wat-7203: 2 spec group(s), 28 combinations
+[110/139] https://www.tanko.com.tw/en/products-detail/wb-57/
+    wb-57: 2 spec group(s), 18 combinations
+[111/139] https://www.tanko.com.tw/en/products-detail/wb-67/
+    wb-67: 2 spec group(s), 21 combinations
+[112/139] https://www.tanko.com.tw/en/products-detail/wb57-ega/
+    wb57-ega: 2 spec group(s), 18 combinations
+[113/139] https://www.tanko.com.tw/en/products-detail/wb67-ega/
+    wb67-ega: 2 spec group(s), 21 combinations
+[114/139] https://www.tanko.com.tw/en/products-detail/wbs-53022/
+    wbs-53022: 2 spec group(s), 18 combinations
+[115/139] https://www.tanko.com.tw/en/products-detail/wbs-63022/
+    wbs-63022: 2 spec group(s), 21 combinations
+[116/139] https://www.tanko.com.tw/en/products-detail/wbt-5203/
+    wbt-5203: 2 spec group(s), 18 combinations
+[117/139] https://www.tanko.com.tw/en/products-detail/wbt-6203/
+    wbt-6203: 2 spec group(s), 21 combinations
+[118/139] https://www.tanko.com.tw/en/products-detail/wd-48s/
+    wd-48s: 2 spec group(s), 8 combinations
+[119/139] https://www.tanko.com.tw/en/products-detail/wd-4ms/
+    wd-4ms: 2 spec group(s), 2 combinations
+[120/139] https://www.tanko.com.tw/en/products-detail/wd-58s/
+    wd-58s: 2 spec group(s), 8 combinations
+[121/139] https://www.tanko.com.tw/en/products-detail/wd-5ms/
+    wd-5ms: 2 spec group(s), 2 combinations
+[122/139] https://www.tanko.com.tw/en/products-detail/wd-68s/
+    wd-68s: 2 spec group(s), 8 combinations
+[123/139] https://www.tanko.com.tw/en/products-detail/wd-6ms/
+    wd-6ms: 2 spec group(s), 2 combinations
+[124/139] https://www.tanko.com.tw/en/products-detail/wdt-48s/
+    wdt-48s: 2 spec group(s), 8 combinations
+[125/139] https://www.tanko.com.tw/en/products-detail/wdt-58s/
+    wdt-58s: 2 spec group(s), 8 combinations
+[126/139] https://www.tanko.com.tw/en/products-detail/wdt-68s/
+    wdt-68s: 2 spec group(s), 8 combinations
+[127/139] https://www.tanko.com.tw/en/products-detail/we/
+    we: 2 spec group(s), 14 combinations
+[128/139] https://www.tanko.com.tw/en/products-detail/we1200/
+    we1200: 2 spec group(s), 14 combinations
+[129/139] https://www.tanko.com.tw/en/products-detail/wet/
+    wet: 2 spec group(s), 14 combinations
+[130/139] https://www.tanko.com.tw/en/products-detail/wet1200/
+    wet1200: 2 spec group(s), 14 combinations
+[131/139] https://www.tanko.com.tw/en/products-detail/wha-882/
+    wha-882: 2 spec group(s), 4 combinations
+[132/139] https://www.tanko.com.tw/en/products-detail/whb-88/
+    whb-88: 2 spec group(s), 4 combinations
+[133/139] https://www.tanko.com.tw/en/products-detail/whb-881/
+    whb-881: 2 spec group(s), 4 combinations
+[134/139] https://www.tanko.com.tw/en/products-detail/whb-882/
+    whb-882: 2 spec group(s), 4 combinations
+[135/139] https://www.tanko.com.tw/en/products-detail/wkt_5102/
+    wkt_5102: 2 spec group(s), 6 combinations
+[136/139] https://www.tanko.com.tw/en/products-detail/wp-51/
+    wp-51: 2 spec group(s), 8 combinations
+[137/139] https://www.tanko.com.tw/en/products-detail/wp-53/
+    wp-53: 2 spec group(s), 15 combinations
+      (6 combinations not offered — skipped)
+[138/139] https://www.tanko.com.tw/en/products-detail/wp-6/
+    wp-6: 2 spec group(s), 4 combinations
+[139/139] https://www.tanko.com.tw/en/products-detail/wp-9_1/
+    wp-9_1: 2 spec group(s), 2 combinations
+
+== Step 3: cross-reference against 1783 local images ==
+  matched  : 1337
+  missing  : 263  (SKUs on Tanko with no image on disk)
+  orphans  : 446  (images on disk with no SKU from Tanko)
+
+Done.  139 product pages  ->  1600 total variants
+        C:\Users\User\OneDrive\tanko seo\tanko_variants.json
+        C:\Users\User\OneDrive\tanko seo\tanko_variants.csv
