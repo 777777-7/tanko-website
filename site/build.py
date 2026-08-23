@@ -28,7 +28,7 @@ TPL_DIR = os.path.join(HERE, "templates")
 STATIC = os.path.join(HERE, "static")
 ASSETS_SRC = os.path.join(ROOT, "assets")
 
-BASE_URL = "/"   # deploy at domain root; for GH Pages sub-path change here
+BASE_URL = "/tanko-website/"   # deploy at domain root; for GH Pages sub-path change here
 
 YEAR = datetime.utcnow().year
 
